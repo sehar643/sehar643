@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning new programming languages and algorithms
 - 💞️ I’m looking to collaborate on on open-source projects related to web development
-- 📫 How to reach me seharuzair9@gmail.com
+- 📫 How to reach me seharlatif75@gmail.com
 - 😄 Pronouns: she/her
 - 🔗 Portfolio: https://portfolio-neon-kappa-60.vercel.app/
 
